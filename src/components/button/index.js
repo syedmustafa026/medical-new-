@@ -5,6 +5,8 @@
 //         <Pressable title={title} onPress={onPress} style={styles.btn}>
 //             <Text style={styles.text}>{title}</Text></Pressable>)
 // }
+
+
 // const styles = StyleSheet.create({
 //     btn: {
 //         height: 43,
